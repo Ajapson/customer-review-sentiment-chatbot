@@ -75,9 +75,9 @@ streamlit run app.py
 
 ## Cloud Deployment
 The application is deployed on the cloud for easy access:
-- **UI Link (A1)**: <CLOUD_UI_LINK>
+- **UI Link (A1)**: https://4a0b95d94c15db35a1.gradio.live/
 - **Business Application (A2)**: Integrated with UI
-- **Cloud Hosted Link (A3)**: <CLOUD_DEPLOYMENT_LINK>
+- **Cloud Hosted Link (A3)**: https://huggingface.co/spaces/Ajapson/product-review-sentiment
 
 ---
 
